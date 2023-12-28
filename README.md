@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232)](https://github.com/GianDeManincor)
+[![MasterHead]()](https://github.com/GianDeManincor)
 <h1 align="center">Hi 👋, I'm Gian de Manincor</h1>
 <h4 align="center">Professional with good experience in software development using Java technology, integrations between applications and their modernization, having worked for technology and financial companies. Through my experiences I was able to learn and apply what we call “customer focus”, always looking for the best solution, ensuring a good customer experience.
 In recent projects I've been working mainly as a developer, refining requirements, designing solutions and coding.
